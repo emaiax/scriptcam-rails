@@ -1,6 +1,6 @@
 # Scriptcam::Rails
 
-TODO: Write a gem description
+ScriptCam, tastefully bundled for the Rails 3.1 asset pipeline. Sweet!
 
 ## Installation
 
