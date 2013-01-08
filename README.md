@@ -1,24 +1,21 @@
 # Scriptcam::Rails
 
-ScriptCam, tastefully bundled for the Rails 3.1 asset pipeline. Sweet!
+[ScriptCam](http://www.scriptcam.com/) is a popular JQuery plugin to manipulate webcams. Take snapshots, detect movement, faces, colors, QR and barcodes, record videoclips, show Augmented Reality 3D objects and organize videochats.
 
-## Installation
-
-Add this line to your application's Gemfile:
-
-    gem 'scriptcam-rails'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install scriptcam-rails
+By the way, it's free for non-commercial use!
 
 ## Usage
 
-TODO: Write usage instructions here
+This gem vendors ScriptCam 1.2.2 for Rails 3.1 and greater. The files will be added to the asset pipeline and available for you to use.
+
+To enable, add the following line to the file app/assets/javascripts/application.js (or other sprockets manifest):
+
+    //= require swfobject
+    //= require scriptcam
+
+## Installation
+
+Add scriptcam-rails to your Gemfile, run bundle and enjoy!
 
 ## Contributing
 
