@@ -6,11 +6,10 @@ By the way, it's free for non-commercial use!
 
 ## Usage
 
-This gem vendors ScriptCam 1.2.2 for Rails 3.1 and greater. The files will be added to the asset pipeline and available for you to use.
+This gem vendors ScriptCam 1.6.0 for Rails 4 and greater. The files will be added to the asset pipeline and available for you to use.
 
 To enable, add the following line to the file app/assets/javascripts/application.js (or other sprockets manifest):
 
-    //= require swfobject
     //= require scriptcam
 
 ## Installation
