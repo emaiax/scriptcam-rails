@@ -1,3 +1,4 @@
+[![Gem Version](https://badge.fury.io/rb/scriptcam-rails.svg)](http://badge.fury.io/rb/scriptcam-rails)
 # Scriptcam::Rails
 
 [ScriptCam](http://www.scriptcam.com/) is a popular JQuery plugin to manipulate webcams. Take snapshots, detect movement, faces, colors, QR and barcodes, record videoclips, show Augmented Reality 3D objects and organize videochats.
